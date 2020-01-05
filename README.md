@@ -2,7 +2,7 @@
 This is my portfolio of projects and assignments. Feel free to reach out to me with any questions or comments. 
 
 ## List of Projects
-1. Social Networks: Effects of Networked Directors on Financial Performance [Accepted for Publication at IEEE Transactions on Computational Social Systems]
+1. [Social Networks](https://github.com/10avinash/Project-Portfolio/tree/master/Social%20Networks): Effects of Networked Directors on Financial Performance [Accepted for Publication at IEEE Transactions on Computational Social Systems]
 2. Machine Learning Projects
     * Linear Regression : A very simple implementation
     * Image Classification with TinyimageNet using Convolutional Neural Network
