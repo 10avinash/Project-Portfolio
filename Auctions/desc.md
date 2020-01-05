@@ -7,4 +7,4 @@ Turn in a printout of your code and a graph showing a plot of your estimated CDF
 Be sure to choose the scaling of the plot so that the graph is informative.
 
 # Solution
-We needed to use an equation derived based on order statistics. Please find [here](https://github.com/10avinash/Project-Portfolio/tree/master/Auctions), the [equation](https://github.com/10avinash/Project-Portfolio/blob/master/Auctions/Equation.png) and the report with the [code](https://github.com/10avinash/Project-Portfolio/blob/master/Auctions/ps5_1.pdf).
+We needed to use an equation derived based on order statistics. Please find [here](https://github.com/10avinash/Project-Portfolio/tree/master/Auctions), the [equation](https://github.com/10avinash/Project-Portfolio/blob/master/Auctions/Equation.png) and the report with the [code](https://github.com/10avinash/Project-Portfolio/blob/master/Auctions/ps5_1.pdf). You can also find the underlying dataset [here](https://github.com/10avinash/Project-Portfolio/blob/master/Auctions/ascending_dat.xlsx).
