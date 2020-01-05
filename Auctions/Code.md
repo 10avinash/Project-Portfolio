@@ -5,3 +5,6 @@ Milgrom and Weber (1982). The data set is in the ascii file ascending_data.dat a
 bidders, the second gives the price paid. The data come from 600 simulated auctions. Run your program on these data. 
 Turn in a printout of your code and a graph showing a plot of your estimated CDF of bidders’ private values. 
 Be sure to choose the scaling of the plot so that the graph is informative.
+
+# Solution
+We needed to use an equation derived based on order statistics. Please find here, the equation and the report with the code.
