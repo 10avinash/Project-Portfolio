@@ -6,4 +6,6 @@ The main results
 - Model isn’t training, the training loss is too high even after thousands of epochs.
 - Turns out, LSTM needs thousands of data points, anything in the hundreds won’t seem to do the trick.
 
+You can find my [code](https://github.com/10avinash/Project-Portfolio/blob/master/Machine%20Learning/GDP-Per-Capita/gdp%20%20per%20capita.ipynb) and [presentation](https://github.com/10avinash/Project-Portfolio/blob/master/Machine%20Learning/GDP-Per-Capita/GDP%20Per%20Capita.pdf) [here](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/GDP-Per-Capita).
+
 
