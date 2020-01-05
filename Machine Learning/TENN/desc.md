@@ -4,4 +4,4 @@ The problem with current libraries (there are some in R) is you would need to pr
 the causal relationship. However, in the real world, we probably don't know that or can't be sure. Hence, we built a neural network which
 not only estimates the transfer entropy but also the underlying lag values. I generated causal time series with known lag values in my native
 language-python, utilized an R library to calculate transfer entropy, and trained a simple two layered neural network. It gave a pretty good
-result.
+result. Please find the results in [this document](https://github.com/10avinash/Project-Portfolio/blob/master/Machine%20Learning/TENN/document.pdf) and part of the [code](https://github.com/10avinash/Project-Portfolio/blob/master/Machine%20Learning/TENN/tenn.py) [here](https://github.com/10avinash/Project-Portfolio/tree/master/Machine%20Learning/TENN).
